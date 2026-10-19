@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm ChairulAdnan 👋
+# Hi, I'm Chairul Adnan 👋
 
 **Developer in Progress | AI Enthusiast | Tech Explorer**
 
@@ -65,24 +65,27 @@ An AI-powered WhatsApp assistant built to explore intelligent conversations and 
 
 ---
 
-### 📊 GitHub Statistics
 
-<div align="center">
+### ⚡ Currently Building
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chairulladn&show_icons=true&hide_border=true&theme=default)
+**🤖 ME-AI — WhatsApp AI Assistant**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chairulladn&layout=compact&hide_border=true&theme=default)
+![Status](https://img.shields.io/badge/Status-In%20Development-2ea44f?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Artificial%20Intelligence-64748b?style=flat-square)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Chairulladn&theme=default&hide_border=true)
-
-</div>
+Exploring conversational AI, voice interactions, and automation through real-world projects.
 
 ---
 
-<div align="center">
+### 🌱 Currently Exploring
 
-### Thanks for visiting! 🤝
+- 🤖 **AI Integration** — Connecting AI models with practical applications
+- ⚙️ **Backend Development** — Building reliable application logic
+- 🔄 **Automation** — Making repetitive tasks easier
+- 🐧 **Linux & Development Tools** — Improving my workflow
+- 🌿 **Git & GitHub** — Learning version control and collaboration
 
-*Keep learning. Keep building. Keep improving.*
+---
 
-</div>
+> "Build with curiosity. Improve with consistency."
+
