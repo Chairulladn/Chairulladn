@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Chairul Adnan 👋
+# Hi, I'm ChairulAdnan 👋
 
 **Developer in Progress | AI Enthusiast | Tech Explorer**
 
