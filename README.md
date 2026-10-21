@@ -3,9 +3,9 @@
 
 # Hi, I'm Chairul Adnan
 
-**Developer in Progress | AI Enthusiast | Tech Explorer**
+**An Evolving Developer | something programmer | Tech Explorer**
 
-*Building things, breaking things, and learning along the way.*
+*Building things, and learn all the time*
 
 
 <div align="center">
@@ -23,8 +23,8 @@
 
 I'm a developer based in Indonesia 🇮🇩 who enjoys exploring technology, artificial intelligence, and building practical applications.
 
-- 🔭 Currently building **ME-AI — WhatsApp AI Assistant**
-- 🌱 Learning **JavaScript, Python, backend development, and Git**
+- 🔭 Currently building something
+- 🌱 Learning **JavaScript, Python, backend development, etc**
 - 🤖 Interested in **Artificial Intelligence & Automation**
 - 🐧 Exploring development on **Linux**
 - 💡 Learning something new with every project
