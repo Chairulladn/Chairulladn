@@ -23,7 +23,7 @@
 
 I'm a developer based in Indonesia 🇮🇩 who enjoys exploring technology, artificial intelligence, and building practical applications.
 
-- 🔭 Projects I have built include **ME-AI and Absensi-Siswa**
+- 🔭 Projects I have built include **ME-AI, and Absensi-Siswa**
 - 🌱 Learning **JavaScript, Python, backend development, etc**
 - 🤖 Interested in **Artificial Intelligence & Automation**
 - 🐧 Exploring development on **Linux**
@@ -76,7 +76,7 @@ A project focused on student attendance.
 
 ### ⚡ Project Focus
 
-My projects span **AI assistants, student attendance, and Dansos Puk workflows**.
+My projects span **AI assistants, and student attendance**.
 
 I enjoy turning ideas into practical tools while continuing to learn about backend development, AI integration, and automation.
 
