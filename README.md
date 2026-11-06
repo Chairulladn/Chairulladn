@@ -3,9 +3,9 @@
 
 # Hi, I'm Chairul Adnan
 
-**An Evolving Developer | something programmer | Tech Explorer**
+**Developer | AI & Automation Enthusiast | Tech Explorer**
 
-*Building things, and learn all the time*
+*Building practical projects and learning along the way*
 
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 I'm a developer based in Indonesia 🇮🇩 who enjoys exploring technology, artificial intelligence, and building practical applications.
 
-- 🔭 Currently building something
+- 🔭 Projects I have built include **ME-AI, Absensi-Siswa, Dansos Puk, and Input Dansos Puk**
 - 🌱 Learning **JavaScript, Python, backend development, etc**
 - 🤖 Interested in **Artificial Intelligence & Automation**
 - 🐧 Exploring development on **Linux**
@@ -51,7 +51,7 @@ I'm a developer based in Indonesia 🇮🇩 who enjoys exploring technology, art
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 #### 🤖 ME-AI — WhatsApp AI Assistant
 
@@ -68,17 +68,17 @@ An AI-powered WhatsApp assistant built to explore intelligent conversations and 
 
 `JavaScript` `Node.js` `Baileys` `Groq API` `Python` `FFmpeg`
 
+#### 🏫 Absensi-Siswa
+
+A project focused on student attendance.
+
 ---
 
+### ⚡ Project Focus
 
-### ⚡ Currently Building
+My projects span **AI assistants, student attendance, and Dansos Puk workflows**.
 
-**🤖 ME-AI — WhatsApp AI Assistant**
-
-![Status](https://img.shields.io/badge/Status-In%20Development-2ea44f?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Artificial%20Intelligence-64748b?style=flat-square)
-
-Exploring conversational AI, voice interactions, and automation through real-world projects.
+I enjoy turning ideas into practical tools while continuing to learn about backend development, AI integration, and automation.
 
 ---
 
