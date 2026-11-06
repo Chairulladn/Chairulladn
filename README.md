@@ -23,7 +23,7 @@
 
 I'm a developer based in Indonesia 🇮🇩 who enjoys exploring technology, artificial intelligence, and building practical applications.
 
-- 🔭 Projects I have built include **ME-AI, Absensi-Siswa, Dansos Puk, and Input Dansos Puk**
+- 🔭 Projects I have built include **ME-AI and Absensi-Siswa**
 - 🌱 Learning **JavaScript, Python, backend development, etc**
 - 🤖 Interested in **Artificial Intelligence & Automation**
 - 🐧 Exploring development on **Linux**
